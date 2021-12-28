@@ -1,0 +1,6 @@
+account_id = "<cloudflare_account_id>"
+zone = "bpg.pw"
+website_domain = "bpg.pw"
+notion_page_slug = "d35313812deb49e79fd1483f3061b127"
+notion_page_title = "bpg Personal Blogging Space"
+notion_page_description = "Description"
